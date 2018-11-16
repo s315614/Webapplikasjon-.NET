@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/jquery-3.3.1.js"></script>
+    <script src="Scripts/MyScripts/MainPage.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/MyCSS/mainPage.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><i class="fa fa-codepen"></i><img src="Content/Image/Logo.png" alt="Logo" style="width:100px;height:30px;"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    
+                    <li><a href="#om">About</a></li>
+                    <li><a href="#">Projects</a></li>
+                    <li><a href="#mail">Kundeservice</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="body" class="container-fluid text-center">
+
+
+        <h1 class="page-header">Frequently asked Questions</h1>
+        
+        <div class="row content">
+            <div class="col-sm-2 sidenav">
+                <div id="search">
+                    <input id="searchBox" type="text" value="" name="search" placeholder="Search..">
+                </div>
+                <br />
+                <p><a id="hjelp1" href="#">Hjelp og feilsøking</a></p>
+                <p><a id="funksjonalitet1" href="#">Funksjonalitet</a></p>
+                <p><a id="aktuelt1" href="#">Aktuelt</a></p>
+                <p><a id="konto1" href="#">Konto og betaling</a></p>
+                <p><a id="finn1" href="#">Finn og se</a></p>
+                <p><a id="om1" href="#">Om Oslomet Films</a></p>
+                <p><a id="new" href="#">Stille ny spørsmål</a></p>
+            </div>
+            <div id="main" class="col-sm-8 text-left">
+                <table>
+                    <tr>
+                        <td id="cell">
+                            <div class="jumbotron" id="hjelp">
+                                <input id="hjelp" class="btn btn-link" type="button" value="HJELP OG FEILSØKING"/>
+                                <!-- <ul id="que"></ul> -->
+                            </div>
+                        </td>
+                        <td id="cell">
+                            <div class="jumbotron" id="funksjonalitet">
+                                <input id="funksjonalitet" class="btn btn-link" type="button" value="FUNKSJONALITET"  />
+                                <!--<ul id="que"></ul> -->
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td id="cell">
+                            <div class="jumbotron" id="aktuelt">
+                                <input id="aktuelt" class="btn btn-link" type="button" value="AKTUELT"  />
+                                <!-- <ul id="que"></ul> -->
+                            </div>
+                        </td>
+                        <td id="cell">
+                            <div class="jumbotron" id="konto">
+                                <input id="konto" class="btn btn-link" type="button" value="KONTO OG BETALING"  />
+                                <!--<ul id="que"></ul> -->
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td id="cell">
+                            <div class="jumbotron" id="finn">
+                                <input id="finn" class="btn btn-link" type="button" value="FINN OG SE"  />
+                                <!-- <ul id="que"></ul> -->
+                            </div>
+                        </td>
+                        <td id="cell">
+                            <div class="jumbotron" id="om">
+                                <input id="om" class="btn btn-link" type="button" value="OM OSLOMET FILMS"  />
+                                <!--<ul id="que"></ul> -->
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+               
+            </div>
+            <div class="col-sm-2 sidenav">
+               
+            </div>
+
+
+        </div>
+    </div>
+    <div class="modal-footer">
+        <footer class="container-fluid text-center">
+            <div id="mail"><p>Ring oss +4710101010 eller mail: <a href="javascript: toMail()">support@oslometfilms.com</a> </p></div>
+        </footer>
+    </div>
+</body>
+</html>
