@@ -388,6 +388,19 @@ function mainPage(val) {
 
 
 }
+function login() {
+    //alert('success');
+    var main = $('#main');
+    main.empty();
+    main.append('<link href="Content/bootstrap.css" rel="stylesheet" />');
+    main.append('<link href="Content/MyCSS/mainPage.css" rel="stylesheet" />');
+    main.append('<h3>Login</h3>' 
+        + '<form action="#">' 
+        + '<table style="width: 500px;"><tr><td><label for="uname"><b>Username</b></label></td><td><input type="text" placeholder="Enter Username" name="uname" required></td></tr>' 
+        + '<tr><td><label for="psw"><b>Password</b></label></td> <td><input type="password" placeholder="Enter Password" name="psw" required></td></tr>' 
+        + '<tr><td><button type="submit">Login</button></td></tr></table > ' 
+        + '</form>');
+}
 function toMail() {
     window.location.href = "mailto:support@oslometfilms.com";
 }

@@ -40,3 +40,17 @@ C:\Users\Kibre\Desktop\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDa
 C:\Users\Kibre\Desktop\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.csproj.CopyComplete
 C:\Users\Kibre\Desktop\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.dll
 C:\Users\Kibre\Desktop\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.pdb
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\Database.mdf
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\Database_log.ldf
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\FAQDataaccess.dll.config
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\FAQDataaccess.dll
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\FAQDataaccess.pdb
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\EntityFramework.dll
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\EntityFramework.xml
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.csprojAssemblyReference.cache
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.csproj.CoreCompileInputs.cache
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.csproj.CopyComplete
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.dll
+C:\Users\Kibre\Documents\GitHub\Webapplikasjon-.NET\s315614\IndividuellOppgave4\FAQDataaccess\obj\Debug\FAQDataaccess.pdb
